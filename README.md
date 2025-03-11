@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi
+
+I am a undergraduate Computer Science student at Purdue University, and below are some projects I am working on or have worked on:
+
+ - Rocket League: I am a part of the Autonomous Robotics Club at Purdue, specifically, a part of the Rocket League project. We are working to make remote controlled cars play soccer autonomously on a scaled down field. We recently [restarted the project](https://github.com/purdue-arc/rocket_league_2) to rebuild it from the ground up.
+ - Misinformation and Disinformation Browser Extension: As part of a class about Misinformation and Disinformation at Purdue, I helped create a proof of concept [browser extension](https://github.com/Purdue-Innovation-Capstone/browser) that can help flag websites that are known for misinformation and disinformation when users visit the website. There is also a [website](https://purdueinformationlab.netlify.app/) detailing more information.
+
 
 <!--
 **T3OTWAWKI/T3OTWAWKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
